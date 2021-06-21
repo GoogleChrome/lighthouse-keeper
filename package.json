@@ -33,7 +33,7 @@
     "lit-html": "^1.0.0",
     "memjs": "^1.2.0",
     "node-fetch": "^2.3.0",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   },
   "devDependencies": {
     "rollup": "^1.1.2",
